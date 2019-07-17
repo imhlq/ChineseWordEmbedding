@@ -1,7 +1,7 @@
 # 汉字语料向量库
 # Chinese Word Embedding
 
-Official Website:
+Official Website
 
 官方网址(博客)：
 
@@ -63,3 +63,5 @@ Output=
 ## 结语
 
 如有建议，需求等问题，欢迎联系。共建21世纪最完美的汉字语料数据集！
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
