@@ -1,6 +1,11 @@
 # 汉字语料向量库
 # Chinese Word Embedding
 
+
+项目已停止，详情见[文](https://xhou.me/chinese-word-embedding/)
+---
+
+
 Official Website
 
 官方网址(博客)：
